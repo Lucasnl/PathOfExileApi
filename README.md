@@ -9,4 +9,6 @@ como , Nome daquele personagem , Classe , Level , Liga e os itens que estão equ
 - Como quase todas Api's , O Rate limiting ao consultar uma conta com muitos personagens pode apresentar erro na hora de mostrar
 os itens.
 
+Segue o Video de Como Funciona :
 
+<img src="https://im7.ezgif.com/tmp/ezgif-7-8f04de0564af.gif" />
