@@ -11,4 +11,4 @@ os itens.
 
 Segue o Video de Como Funciona :
 
-<img src="https://im7.ezgif.com/tmp/ezgif-7-8f04de0564af.gif" />
+<img src="https://im7.ezgif.com/tmp/ezgif-7-11e5fa3d9a9c.gif" />
