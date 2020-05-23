@@ -94,7 +94,7 @@ $nome = $_GET['nome'];
 
        <th width="5%">Level</th>
        <th width="5%">Liga</th>
-       <th width="15%">Itens</th> 
+       <th width="25%">Itens</th> 
 
 
      

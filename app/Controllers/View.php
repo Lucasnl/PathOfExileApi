@@ -12,7 +12,7 @@ class View extends BaseController
 
         
 
-        $data['data'] = json_decode(@file_get_contents("https://www.pathofexile.com/character-window/get-items?accountName=".$accountName."&character=".$charName.""));
+        $data['data'] = json_decode(@file_get_contents("https://br.pathofexile.com/character-window/get-items?accountName=".$accountName."&character=".$charName.""));
 
 
 

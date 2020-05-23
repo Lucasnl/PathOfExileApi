@@ -20,7 +20,7 @@
     if(isset($_GET['nome'])){
     $accountName = $_GET ['nome'];
 
-    $data['data'] = json_decode(@file_get_contents("https://www.pathofexile.com/character-window/get-characters?accountName=".$accountName));
+    $data['data'] = json_decode(@file_get_contents("https://br.pathofexile.com/character-window/get-characters?accountName=".$accountName));
 
 //echo '<pre>' ; print_R(($data['data']));echo '<pre>' ; 
  
@@ -48,7 +48,7 @@ public function Ajax () {
 
     $accountName = $_GET ['nome'];
 
-    $data['data'] = json_decode(@file_get_contents("https://www.pathofexile.com/character-window/get-characters?accountName=".$accountName));
+    $data['data'] = json_decode(@file_get_contents("https://br.pathofexile.com/character-window/get-characters?accountName=".$accountName));
 
     
   
